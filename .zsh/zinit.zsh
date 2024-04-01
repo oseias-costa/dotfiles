@@ -22,4 +22,4 @@ zinit light-mode for \
 
 zinit light zsh-users/zsh-autosuggestions
 zinit light zsh-users/zsh-completions
-zinit light spaceship-prompt/spaceship-prompt
+# zinit light spaceship-prompt/spaceship-prompt
