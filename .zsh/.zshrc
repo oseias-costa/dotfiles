@@ -1,7 +1,7 @@
-source ~/.zsh/env-vars.zsh
-source ~/.zsh/zinit.zsh
-source ~/.oh-my-zsh/oh-my-zsh.sh
-source ~/.zsh/aliases.zsh
+source ~/dotfiles/.zsh/env-vars.zsh
+source ~/dotfiles/.zsh/zinit.zsh
+source ~/dotfiles/.oh-my-zsh/oh-my-zsh.sh
+source ~/dotfiles/.zsh/aliases.zsh
 export PATH="$PATH:/home/oseias-costa/.local/bin"
 export PATH="/home/linuxbrew/.linuxbrew/bin:$PATH"
 export PATH=$PATH:$HOME/google-cloud-sdk/bin
